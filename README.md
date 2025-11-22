@@ -1,16 +1,16 @@
-## 🟦 NEPECON – Núcleo de Estudos e Pesquisas em Contabilidade e Sustentabilidade Econômica e Socioambiental (UnB)
+## 🟦 NEPECON – Center for Studies and Research in Accounting and Socio-Environmental Sustainability (University of Brasília)
 
-O **NEPECON** é um núcleo de pesquisa e extensão da **Universidade de Brasília (UnB)** dedicado ao desenvolvimento de estudos aplicados nas áreas de **contabilidade**, **sustentabilidade**, **governança pública**, **gestão socioambiental** e **inovação em políticas públicas**.
+**NEPECON** is a research and extension center at the **University of Brasília (UnB)** dedicated to advancing applied studies in **accounting**, **sustainability**, **public governance**, **socio-environmental management**, and **innovation in public policy**.
 
-Atuamos na produção de conhecimento científico, no apoio à formulação de políticas públicas e na formação de profissionais capazes de integrar avaliação econômica, impactos sociais e governança responsável.
+Our mission is to produce scientific knowledge, support evidence-based policymaking, and train professionals capable of integrating economic evaluation, social impacts, climate governance, and accountability.
 
-Entre nossos principais projetos, destacam-se:
+Key initiatives include:
 
-- **AGIR – Automação para uma Governança Inteligente e Responsável**, focado em RPA para governança e integridade pública.  
-- Estudos e métricas em **contabilidade da descarbonização**, alinhados a IFRS S1, IFRS S2, GHG Protocol e CBPS 02.  
-- Pesquisas em **ESG no setor público**, transparência, risco climático e accountability.  
-- Projetos de extensão voltados para **auditoria social**, educação sustentável e engajamento comunitário.
+- **AGIR – Automation for Intelligent and Responsible Governance**, focused on RPA solutions for governance and integrity in the public sector.  
+- Research and metrics on **carbon accounting and decarbonization**, aligned with IFRS S1, IFRS S2, GHG Protocol, and CBPS 02.  
+- Studies on **ESG in the public sector**, climate-related financial disclosure, transparency, and institutional integrity.  
+- Extension programs promoting **social auditing**, sustainability education, and citizen engagement.
 
-O núcleo reúne pesquisadores, estudantes e instituições parceiras do Brasil e do exterior, promovendo uma abordagem interdisciplinar e baseada em evidências para desafios contemporâneos em transparência, integridade, clima, finanças públicas e desenvolvimento sustentável.
+NEPECON brings together researchers, students, and institutional partners from Brazil and abroad, fostering an interdisciplinary and evidence-oriented approach to contemporary challenges in transparency, climate reporting, sustainable finance, and public sector governance.
 
 ---
